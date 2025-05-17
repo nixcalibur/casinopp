@@ -1,0 +1,7 @@
+Casino session started.
+User test deposited $1000.000000 as starting balance.
+Usertestselected menu option: 3
+User test bet $500 on BlackJack.
+BLACKJACK: User WON $1500 User's hand: 20, Whereas Computer's hand: 19
+test New Balance is2000
+User test stops playing.
